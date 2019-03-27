@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-// fffff
-// ddffgkmg
+// For command line git tutorial
+// First : GitHub modification
 // second: Local repository modification
 
 print "Hello World"
